@@ -1,4 +1,4 @@
-⚙️ Data Preprocessing:
+**⚙️ Data Preprocessing:**
 
 This Jupyter Notebook covers essential data preprocessing techniques that are crucial before applying machine learning models. It serves as a hands-on practice file for transforming raw data into a clean and usable format.
 
